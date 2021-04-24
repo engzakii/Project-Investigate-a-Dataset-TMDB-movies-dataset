@@ -12,14 +12,6 @@ The libraries that I needed to install :
 
 In this project I will apply all the concepts That I've learnt including:
 
-1- Know all the steps involved in a typical data analysis process.
-2- Be comfortable posing questions that can be answered with a given dataset and then answering those questions.
-3- Know how to investigate problems in a dataset and wrangle the data into a format I can use.
-4- Have experience communicating the results of my analysis.
-5- Be able to use vectorized operations in NumPy and pandas to speed up my data analysis code.
-6- Be familiar with pandas' Series and DataFrame objects, which let me access my data more conveniently.
-7- Know how to use Matplotlib to produce plots showing my findings.
-
 
 ### Step 1 - Choosing data set
 
