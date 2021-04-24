@@ -1,5 +1,5 @@
-Investigate-a-dataset
-Udacity data analyst nanodegree -- project 2 investigate a dataset
+Udacity data analyst nanodegree
+Project 2 investigate a dataset
 
 In this project, I will analyze a dataset and then communicate my findings about it. I will use the Python libraries NumPy, pandas, and Matplotlib to make my analysis easier.
 
